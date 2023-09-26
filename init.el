@@ -24,6 +24,7 @@
 (setq bookmark-save-flag nil)
 (setq create-lockfiles nil)
 (setq make-backup-files nil)
+(save-place-mode 1)
 
 (setq-default indent-tabs-mode nil)
 (setq-default tab-always-indent 'complete)

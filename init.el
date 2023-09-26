@@ -2,7 +2,7 @@
 (electric-indent-mode 1)
 (electric-pair-mode 1)
 (global-auto-revert-mode 1)
-(global-display-line-numbers-mode 1)
+;;(global-display-line-numbers-mode 1)
 (global-prettify-symbols-mode 1)
 (global-subword-mode 1)
 (menu-bar-mode 0)
@@ -29,6 +29,7 @@
 (setq-default indent-tabs-mode nil)
 (setq-default tab-always-indent 'complete)
 (setq-default tab-width 2)
+(setq-default truncate-lines t)
 (setq-default word-wrap t)
 (setq line-move-visual nil)
 

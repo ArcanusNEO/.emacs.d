@@ -50,3 +50,5 @@
     (setq interprogram-cut-function 'xclip-cut-function)
     (setq interprogram-paste-function 'xclip-paste-function)
     ))
+
+(setq-default c-default-style "java")

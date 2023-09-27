@@ -11,5 +11,6 @@
 # Undo-tree save-files
 *.~undo-tree
 
-# Places
-/places
+# Historis
+places
+history

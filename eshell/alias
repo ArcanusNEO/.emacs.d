@@ -1,0 +1,15 @@
+alias ls ls --color=auto $*
+alias l ls -Fhla $*
+alias ll ls -FhlaSr $*
+alias lt ls -Fhlatr $*
+alias lx ls -FhlaX $*
+alias lv ls -Fhlav $*
+alias diff diff --color=auto $*
+alias grep grep --color=auto $*
+alias ip ip -color=auto $*
+alias j cd $*
+alias vi vim $*
+alias md mkdir -p $*
+alias cls clear-scrollback
+alias time /usr/bin/time $*
+alias kill /bin/kill $*

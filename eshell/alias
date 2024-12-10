@@ -1,0 +1,6 @@
+alias l ls -Fhla $*
+alias ll ls -FhlaSr $*
+alias lt ls -Fhlatr $*
+alias j cd $*
+alias md mkdir -p $*
+alias cls clear-scrollback

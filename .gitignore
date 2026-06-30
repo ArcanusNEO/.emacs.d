@@ -1,0 +1,9 @@
+*
+!.gitignore
+
+!init.el
+!custom.el
+!LICENSE
+!Makefile
+!README
+!viper
